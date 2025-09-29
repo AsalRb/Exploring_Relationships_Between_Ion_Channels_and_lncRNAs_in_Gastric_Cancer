@@ -5,7 +5,7 @@
 
 ##  Overview
 
-This repository hosts my **ongoing research project** on the role of **ion channels and long non-coding RNAs (lncRNAs) in gastric cancer (GC)**.
+This repository explores the role of ion channels and long non-coding RNAs (lncRNAs) in gastric cancer (GC).
 
 Using **RNA-seq data from TCGA-STAD**, the project applies **bioinformatics and systems biology approaches** such as differential expression analysis, weighted gene co-expression network analysis (WGCNA), and clinical trait correlations. The ultimate goal is to uncover potential **lncRNA–ion channel interactions** relevant to gastric cancer biology.
 
